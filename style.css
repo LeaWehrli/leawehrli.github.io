@@ -1,0 +1,21 @@
+body{
+	background-color:#9BD4F5;
+	color: blue;
+  font-size: 16px;
+  font-family: Helvetica;
+}
+
+img{
+	height:200px;
+}
+
+div{
+	background-color:white;
+}
+
+.apple{
+	background-color:red;
+	padding:40px;
+	border:20px solid blue;
+	margin:50px;
+}
